@@ -13,3 +13,8 @@ Git 快捷命令說明：
   gadd <file>               # 添加特定文件
   gcommit "提交信息"        # 提交更改
 ```
+# Usage
+```
+sbatch model_train.sh # python train.py
+sbatch model_test.sh # python test.py
+```
