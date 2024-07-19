@@ -1,0 +1,8 @@
+Data loaded successfully
+Model loaded successfully
+Number of training samples: 33235
+Number of test samples: 8309
+Mean Squared Error (MSE): 0.5640
+Mean Absolute Error (MAE): 0.3460
+R² Score: 0.4057
+預測結果圖已保存為 'prediction_plot_with_metrics_and_samples.png'

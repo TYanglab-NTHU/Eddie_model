@@ -1,0 +1,12 @@
+ERROR:root:The data file is empty or corrupted. Will recreate the file.
+[09:29:54] WARNING: not removing hydrogen atom without neighbors
+[09:29:54] WARNING: not removing hydrogen atom without neighbors
+[09:29:54] WARNING: not removing hydrogen atom without neighbors
+[09:30:12] WARNING: not removing hydrogen atom without neighbors
+[09:30:12] WARNING: not removing hydrogen atom without neighbors
+[09:30:12] WARNING: not removing hydrogen atom without neighbors
+INFO:root:Data saved to file successfully
+Traceback (most recent call last):
+  File "/work/u5066474/NTHU/test10.py", line 85, in <module>
+    X_train, X_test, y_train, y_test, value_type_encoder, equilibrium_encoder = process_data()
+ValueError: too many values to unpack (expected 6)

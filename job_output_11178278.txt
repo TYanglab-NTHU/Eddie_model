@@ -1,0 +1,4 @@
+(33235, 2735) (8309, 2735) (33235,) (8309,)
+Model created
+torch.Size([8309, 2735]) torch.Size([8309])
+Start training

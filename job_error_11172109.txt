@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/work/u5066474/NTHU/test8.py", line 30, in <module>
+    model.load_state_dict(torch.load('final_model_state_dict.pth'))
+  File "/home/u5066474/miniconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 2041, in load_state_dict
+    raise RuntimeError('Error(s) in loading state_dict for {}:\n\t{}'.format(
+RuntimeError: Error(s) in loading state_dict for MyModel:
+	size mismatch for dense1.weight: copying a param with shape torch.Size([32, 3]) from checkpoint, the shape in current model is torch.Size([32, 10]).
+	size mismatch for dense2.weight: copying a param with shape torch.Size([32, 684]) from checkpoint, the shape in current model is torch.Size([32, 5]).

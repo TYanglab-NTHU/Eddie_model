@@ -1,0 +1,114 @@
+Process name: Glycine
+NCC(O)=O
+Processed 1 lines
+Process name: Alanine
+C[C@H](N)C(O)=O
+Process name: DL-2-Aminobutanoic acid
+CCC(N)C(O)=O
+Process name: Norvaline
+CCC[C@H](N)C(O)=O
+Process name: Norleucine
+CCCC[C@H](N)C(O)=O
+Process name: Valine
+CC(C)[C@H](N)C(O)=O
+Process name: Leucine
+CC(C)C[C@H](N)C(O)=O
+Process name: Isoleucine
+CC[C@H](C)[C@H](N)C(O)=O
+Process name: D-allo-Isoleucine
+CC[C@H](C)[C@@H](N)C(O)=O
+Process name: 2-Aminoisobutyric acid
+CC(C)(N)C(O)=O
+Process name: DL-2-Amino-4-pentenoic acid
+Failed to get SMILES for row 10 (Ligand: DL-2-Amino-4-pentenoic acid)
+Processed 11 lines
+Process name: DL-2-Amino-5-hexenoic acid
+Failed to get SMILES for row 11 (Ligand: DL-2-Amino-5-hexenoic acid)
+Process name: DL-2-Amino-6-heptenoic acid
+Failed to get SMILES for row 12 (Ligand: DL-2-Amino-6-heptenoic acid)
+Process name: Cycloleucine
+NC1(CCCC1)C(O)=O
+Process name: 1-Aminocyclohexanecarboxylic acid
+NC1(CCCCC1)C(O)=O
+Process name: 1-Aminocycloheptanecarboxylic acid
+NC1(CCCCCC1)C(O)=O
+Process name: Phenylglycine
+OC(=O)CNc1ccccc1
+Process name: Phenylalanine
+N[C@@H](Cc1ccccc1)C(O)=O
+Process name: 3-Chloroalanine
+N[C@@H](CCl)C(O)=O
+Process name: DL-2-Amino-3-chlorobutanoic acid
+Failed to get SMILES for row 19 (Ligand: DL-2-Amino-3-chlorobutanoic acid)
+Process name: DL-2-Amino-3-(2-fluorophenyl)propanoic acid (DL-3-(2-Fluorophenyl)alanine)
+Failed to get SMILES for row 20 (Ligand: DL-2-Amino-3-(2-fluorophenyl)propanoic acid (DL-3-(2-Fluorophenyl)alanine))
+Processed 21 lines
+Process name: DL-2-Amino-3-(3-fluorophenyl)propanoic acid (DL-3-(3-Fluorophenyl)alanine)
+Failed to get SMILES for row 21 (Ligand: DL-2-Amino-3-(3-fluorophenyl)propanoic acid (DL-3-(3-Fluorophenyl)alanine))
+Process name: DL-2-Amino-3-(4-fluorophenyl)propanoic acid (DL-3-(4-Fluorophenyl)alanine)
+Failed to get SMILES for row 22 (Ligand: DL-2-Amino-3-(4-fluorophenyl)propanoic acid (DL-3-(4-Fluorophenyl)alanine))
+Process name: DL-2-Amino-3-(2-chlorophenyl)propanoic acid (DL-3-(2-Chlorophenyl)alanine)
+Failed to get SMILES for row 23 (Ligand: DL-2-Amino-3-(2-chlorophenyl)propanoic acid (DL-3-(2-Chlorophenyl)alanine))
+Process name: DL-2-Amino-3-(3-chlorophenyl)propanoic acid (DL-3-(3-Chlorophenyl)alanine)
+Failed to get SMILES for row 24 (Ligand: DL-2-Amino-3-(3-chlorophenyl)propanoic acid (DL-3-(3-Chlorophenyl)alanine))
+Process name: DL-2-Amino-3-(4-chlorophenyl)propanoic acid (DL-3-(4-Chlorophenyl)alanine)
+Failed to get SMILES for row 25 (Ligand: DL-2-Amino-3-(4-chlorophenyl)propanoic acid (DL-3-(4-Chlorophenyl)alanine))
+Process name: 4-Sulfophenylglycine
+OC(=O)CNc1ccc(cc1)[S](O)(=O)=O
+Process name: Homocysteic acid
+N[C@@H](CC[S](O)(=O)=O)C(O)=O
+Process name: beta-Alanine
+NCCC(O)=O
+Process name: DL-3-Aminobutanoic acid
+Failed to get SMILES for row 29 (Ligand: DL-3-Aminobutanoic acid)
+Process name: cis-2-Aminocyclopentane-1-carboxylic acid
+N[C@H]1CCC[C@H]1C(O)=O
+Processed 31 lines
+Process name: trans-2-Aminocyclopentane-1-carboxylic acid
+N[C@@H]1CCC[C@H]1C(O)=O
+Process name: cis-2-Aminocyclohexane-1-carboxylic acid
+N[C@H]1CCCC[C@H]1C(O)=O
+Process name: trans-2-Aminocyclohexane-1-carboxylic acid
+N[C@@H]1CCCC[C@H]1C(O)=O
+Process name: cis-2-Amino-4-cyclohexene-1-carboxylic acid
+N[C@H]1CC=CC[C@H]1C(O)=O
+Process name: trans-2-Amino-4-cyclohexene-1-carboxylic acid
+N[C@@H]1CC=CC[C@H]1C(O)=O
+Process name: Phenyl-beta-Alanine
+OC(=O)CCNc1ccccc1
+Process name: 4-Aminobutanoic acid
+NCCCC(O)=O
+Process name: 5-Aminopentanoic acid
+NCCCCC(O)=O
+Process name: 6-Aminohexanoic acid
+NCCCCCC(O)=O
+Process name: 7-Aminoheptanoic acid
+NCCCCCCC(O)=O
+Processed 41 lines
+Process name: Aminomalonic acid
+NC(C(O)=O)C(O)=O
+Process name: Aspartic acid
+N[C@@H](CC(O)=O)C(O)=O
+Process name: 3-Methylaspartic acid
+CC([C@H](N)C(O)=O)C(O)=O
+Process name: Glutamic acid
+N[C@@H](CCC(O)=O)C(O)=O
+Process name: 2-Methylglutamic acid
+C[C@](N)(CCC(O)=O)C(O)=O
+Process name: DL-2-Aminohexanedioic acid
+Failed to get SMILES for row 46 (Ligand: DL-2-Aminohexanedioic acid)
+Process name: 3-Hydroxyglutamic acid
+N[C@@H](C(O)CC(O)=O)C(O)=O
+Process name: (3-Aminopropyl)malonic acid
+NCCCC(C(O)=O)C(O)=O
+Process name: Phosphoserine
+N[C@@H](CO[P](O)(O)=O)C(O)=O
+Failed names saved to 'failed_names.csv'.
+                                 Ligand  ...              SMILES
+0            Aminoacetic acid (Glycine)  ...            NCC(O)=O
+1     L-2-Aminopropanoic acid (Alanine)  ...     C[C@H](N)C(O)=O
+2               DL-2-Aminobutanoic acid  ...        CCC(N)C(O)=O
+3  DL-2-Aminopentanoic acid (Norvaline)  ...   CCC[C@H](N)C(O)=O
+4  DL-2-Aminohexanoic acid (Norleucine)  ...  CCCC[C@H](N)C(O)=O
+
+[5 rows x 3 columns]

@@ -1,0 +1,29 @@
+(33235, 787) (8309, 787) (33235,) (8309,)
+Using device: cuda
+Model created
+Start training
+Epoch 1: Train Loss: 0.9836, Val Loss: 0.6708
+Epoch 2: Train Loss: 0.8523, Val Loss: 0.5738
+Epoch 3: Train Loss: 0.7623, Val Loss: 0.6328
+Epoch 4: Train Loss: 0.7140, Val Loss: 0.5307
+Epoch 5: Train Loss: 0.6603, Val Loss: 0.5141
+Epoch 6: Train Loss: 0.6008, Val Loss: 0.5501
+Epoch 7: Train Loss: 0.5695, Val Loss: 0.5696
+Epoch 8: Train Loss: 0.5555, Val Loss: 0.5475
+Epoch 9: Train Loss: 0.5403, Val Loss: 0.5132
+Epoch 10: Train Loss: 0.5171, Val Loss: 0.5508
+Epoch 11: Train Loss: 0.5435, Val Loss: 0.5184
+Epoch 12: Train Loss: 0.5043, Val Loss: 0.5134
+Epoch 13: Train Loss: 0.5016, Val Loss: 0.4778
+Epoch 14: Train Loss: 0.5090, Val Loss: 0.5390
+Epoch 15: Train Loss: 0.4893, Val Loss: 0.5130
+Epoch 16: Train Loss: 0.5027, Val Loss: 0.5334
+Epoch 17: Train Loss: 0.4703, Val Loss: 0.4905
+Epoch 18: Train Loss: 0.4774, Val Loss: 0.4779
+Epoch 19: Train Loss: 0.4643, Val Loss: 0.5132
+Epoch 20: Train Loss: 0.4348, Val Loss: 0.4880
+Epoch 21: Train Loss: 0.4302, Val Loss: 0.4894
+Epoch 22: Train Loss: 0.4147, Val Loss: 0.4825
+Epoch 23: Train Loss: 0.4148, Val Loss: 0.4832
+Early stopping triggered after 23 epochs
+Training finished

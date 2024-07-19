@@ -1,0 +1,18 @@
+Data loaded from file
+(33235, 2735) (8309, 2735) (33235,) (8309,)
+MyModel(
+  (dense1): Linear(in_features=3, out_features=32, bias=True)
+  (dense2): Linear(in_features=684, out_features=32, bias=True)
+  (dense3): Linear(in_features=2048, out_features=64, bias=True)
+  (concat_dense): Linear(in_features=128, out_features=64, bias=True)
+  (output_dense): Linear(in_features=64, out_features=1, bias=True)
+)
+Model created
+Shape of X_train: (33235, 2735)
+Type of X_train: <class 'numpy.ndarray'>
+Shape of y_train: (33235,)
+Type of y_train: <class 'numpy.ndarray'>
+torch.Size([8309, 2735]) torch.Size([8309])
+Start training
+Training finished
+Model saved

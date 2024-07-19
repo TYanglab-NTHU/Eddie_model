@@ -1,0 +1,112 @@
+Process name: Glycine
+Process name: Alanine
+Process name: DL-2-Aminobutanoic acid
+Process name: Norvaline
+Process name: Norleucine
+Process name: Valine
+Process name: Leucine
+Process name: Isoleucine
+Process name: D-allo-Isoleucine
+Process name: 2-Aminoisobutyric acid
+Process name: DL-2-Amino-4-pentenoic acid
+Process name: DL-2-Amino-5-hexenoic acid
+Process name: DL-2-Amino-6-heptenoic acid
+Process name: Cycloleucine
+Process name: 1-Aminocyclohexanecarboxylic acid
+Process name: 1-Aminocycloheptanecarboxylic acid
+Failed to get SMILES for row 0 (Ligand: Glycine)
+Process name: Phenylglycine
+Processed 1 lines
+Failed to get SMILES for row 3 (Ligand: Norvaline)
+Process name: Phenylalanine
+Failed to get SMILES for row 5 (Ligand: Valine)
+Process name: 3-Chloroalanine
+Failed to get SMILES for row 6 (Ligand: Leucine)
+Process name: DL-2-Amino-3-chlorobutanoic acid
+Failed to get SMILES for row 2 (Ligand: DL-2-Aminobutanoic acid)
+Process name: DL-2-Amino-3-(2-fluorophenyl)propanoic acid (DL-3-(2-Fluorophenyl)alanine)
+Failed to get SMILES for row 11 (Ligand: DL-2-Amino-5-hexenoic acid)
+Process name: DL-2-Amino-3-(3-fluorophenyl)propanoic acid (DL-3-(3-Fluorophenyl)alanine)
+Failed to get SMILES for row 15 (Ligand: 1-Aminocycloheptanecarboxylic acid)
+Process name: DL-2-Amino-3-(4-fluorophenyl)propanoic acid (DL-3-(4-Fluorophenyl)alanine)
+Failed to get SMILES for row 10 (Ligand: DL-2-Amino-4-pentenoic acid)
+Process name: DL-2-Amino-3-(2-chlorophenyl)propanoic acid (DL-3-(2-Chlorophenyl)alanine)
+Failed to get SMILES for row 8 (Ligand: D-allo-Isoleucine)
+Process name: DL-2-Amino-3-(3-chlorophenyl)propanoic acid (DL-3-(3-Chlorophenyl)alanine)
+Processed 11 lines
+Failed to get SMILES for row 1 (Ligand: Alanine)
+Process name: DL-2-Amino-3-(4-chlorophenyl)propanoic acid (DL-3-(4-Chlorophenyl)alanine)
+Failed to get SMILES for row 12 (Ligand: DL-2-Amino-6-heptenoic acid)
+Process name: 4-Sulfophenylglycine
+Failed to get SMILES for row 4 (Ligand: Norleucine)
+Process name: Homocysteic acid
+Failed to get SMILES for row 14 (Ligand: 1-Aminocyclohexanecarboxylic acid)
+Process name: beta-Alanine
+Failed to get SMILES for row 13 (Ligand: Cycloleucine)
+Process name: DL-3-Aminobutanoic acid
+Failed to get SMILES for row 7 (Ligand: Isoleucine)
+Process name: cis-2-Aminocyclopentane-1-carboxylic acid
+Failed to get SMILES for row 9 (Ligand: 2-Aminoisobutyric acid)
+Process name: trans-2-Aminocyclopentane-1-carboxylic acid
+Failed to get SMILES for row 17 (Ligand: Phenylalanine)
+Process name: cis-2-Aminocyclohexane-1-carboxylic acid
+Failed to get SMILES for row 21 (Ligand: DL-2-Amino-3-(3-fluorophenyl)propanoic acid (DL-3-(3-Fluorophenyl)alanine))
+Process name: trans-2-Aminocyclohexane-1-carboxylic acid
+Failed to get SMILES for row 24 (Ligand: DL-2-Amino-3-(3-chlorophenyl)propanoic acid (DL-3-(3-Chlorophenyl)alanine))
+Process name: cis-2-Amino-4-cyclohexene-1-carboxylic acid
+Failed to get SMILES for row 25 (Ligand: DL-2-Amino-3-(4-chlorophenyl)propanoic acid (DL-3-(4-Chlorophenyl)alanine))
+Process name: trans-2-Amino-4-cyclohexene-1-carboxylic acid
+Failed to get SMILES for row 19 (Ligand: DL-2-Amino-3-chlorobutanoic acid)
+Process name: Phenyl-beta-Alanine
+Failed to get SMILES for row 20 (Ligand: DL-2-Amino-3-(2-fluorophenyl)propanoic acid (DL-3-(2-Fluorophenyl)alanine))
+Process name: 4-Aminobutanoic acid
+Processed 21 lines
+Failed to get SMILES for row 26 (Ligand: 4-Sulfophenylglycine)
+Process name: 5-Aminopentanoic acid
+Failed to get SMILES for row 23 (Ligand: DL-2-Amino-3-(2-chlorophenyl)propanoic acid (DL-3-(2-Chlorophenyl)alanine))
+Process name: 6-Aminohexanoic acid
+Failed to get SMILES for row 22 (Ligand: DL-2-Amino-3-(4-fluorophenyl)propanoic acid (DL-3-(4-Fluorophenyl)alanine))
+Process name: 7-Aminoheptanoic acid
+Failed to get SMILES for row 18 (Ligand: 3-Chloroalanine)
+Process name: Aminomalonic acid
+Failed to get SMILES for row 16 (Ligand: Phenylglycine)
+Process name: Aspartic acid
+Failed to get SMILES for row 31 (Ligand: trans-2-Aminocyclopentane-1-carboxylic acid)
+Process name: 3-Methylaspartic acid
+Failed to get SMILES for row 30 (Ligand: cis-2-Aminocyclopentane-1-carboxylic acid)
+Process name: Glutamic acid
+Processed 31 lines
+Failed to get SMILES for row 27 (Ligand: Homocysteic acid)
+Process name: 2-Methylglutamic acid
+Failed to get SMILES for row 29 (Ligand: DL-3-Aminobutanoic acid)
+Process name: DL-2-Aminohexanedioic acid
+Failed to get SMILES for row 28 (Ligand: beta-Alanine)
+Process name: 3-Hydroxyglutamic acid
+Failed to get SMILES for row 32 (Ligand: cis-2-Aminocyclohexane-1-carboxylic acid)
+Process name: (3-Aminopropyl)malonic acid
+Failed to get SMILES for row 35 (Ligand: trans-2-Amino-4-cyclohexene-1-carboxylic acid)
+Process name: Phosphoserine
+Failed to get SMILES for row 36 (Ligand: Phenyl-beta-Alanine)
+Failed to get SMILES for row 37 (Ligand: 4-Aminobutanoic acid)
+Failed to get SMILES for row 33 (Ligand: trans-2-Aminocyclohexane-1-carboxylic acid)
+Failed to get SMILES for row 34 (Ligand: cis-2-Amino-4-cyclohexene-1-carboxylic acid)
+Failed to get SMILES for row 39 (Ligand: 6-Aminohexanoic acid)
+Failed to get SMILES for row 40 (Ligand: 7-Aminoheptanoic acid)
+Processed 41 lines
+Failed to get SMILES for row 42 (Ligand: Aspartic acid)
+Failed to get SMILES for row 38 (Ligand: 5-Aminopentanoic acid)
+Failed to get SMILES for row 41 (Ligand: Aminomalonic acid)
+Failed to get SMILES for row 43 (Ligand: 3-Methylaspartic acid)
+Failed to get SMILES for row 44 (Ligand: Glutamic acid)
+Failed to get SMILES for row 46 (Ligand: DL-2-Aminohexanedioic acid)
+Failed to get SMILES for row 47 (Ligand: 3-Hydroxyglutamic acid)
+Failed to get SMILES for row 45 (Ligand: 2-Methylglutamic acid)
+Failed to get SMILES for row 49 (Ligand: Phosphoserine)
+Failed to get SMILES for row 48 (Ligand: (3-Aminopropyl)malonic acid)
+Failed names saved to 'failed_names.csv'.
+                                 Ligand           Processed Name SMILES
+0            Aminoacetic acid (Glycine)                  Glycine   None
+1     L-2-Aminopropanoic acid (Alanine)                  Alanine   None
+2               DL-2-Aminobutanoic acid  DL-2-Aminobutanoic acid   None
+3  DL-2-Aminopentanoic acid (Norvaline)                Norvaline   None
+4  DL-2-Aminohexanoic acid (Norleucine)               Norleucine   None
