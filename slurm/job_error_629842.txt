@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 629842 ON gn0812 CANCELLED AT 2024-07-19T17:00:48 ***
