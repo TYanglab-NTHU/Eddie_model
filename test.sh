@@ -9,9 +9,8 @@
 #SBATCH --account=MST111483
 #SBATCH --mail-type=END,FAIL       
 #SBATCH --mail-user=qteddie@gmail.com
-#SBATCH --output=job_output_%j.txt
-#SBATCH --error=job_error_%j.txt    
-
+#SBATCH --output=./slurm/job_output_%j.txt
+#SBATCH --error=./slurm/job_error_%j.txt    
 
 
 python model_test.py
