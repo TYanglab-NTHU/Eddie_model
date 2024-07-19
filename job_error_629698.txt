@@ -1,9 +1,0 @@
-ERROR:root:Error loading data from file: Loaded data does not have the expected number of elements
-Traceback (most recent call last):
-  File "/work/u5066474/NTHU/model_train.py", line 268, in <module>
-    train_model()
-  File "/work/u5066474/NTHU/model_train.py", line 171, in train_model
-    X_train, X_test, y_train, y_test, value_type_encoder, equilibrium_encoder, scalers = process_data()
-  File "/work/u5066474/NTHU/model_train.py", line 124, in process_data
-    raise ValueError("Loaded data does not have the expected number of elements")
-ValueError: Loaded data does not have the expected number of elements

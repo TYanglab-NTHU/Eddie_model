@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/work/u5066474/NTHU/test11.py", line 9, in <module>
-    model = MyModel(value_type_shape, equilibrium_shape, smiles_shape)
-NameError: name 'MyModel' is not defined

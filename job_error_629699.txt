@@ -1,7 +1,0 @@
-[12:09:34] WARNING: not removing hydrogen atom without neighbors
-[12:09:34] WARNING: not removing hydrogen atom without neighbors
-[12:09:34] WARNING: not removing hydrogen atom without neighbors
-[12:09:48] WARNING: not removing hydrogen atom without neighbors
-[12:09:48] WARNING: not removing hydrogen atom without neighbors
-[12:09:48] WARNING: not removing hydrogen atom without neighbors
-INFO:root:Data saved to file successfully

@@ -1,6 +1,0 @@
-Data loaded successfully
-Model loaded successfully
-Mean Squared Error (MSE): 0.3225
-Mean Absolute Error (MAE): 0.3019
-R² Score: 0.6602
-預測結果圖已保存為 'prediction_plot.png'

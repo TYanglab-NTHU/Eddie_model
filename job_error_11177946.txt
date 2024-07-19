@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/work/u5066474/NTHU/test10.py", line 13, in <module>
-    from test7.py import process_data
-  File "/work/u5066474/NTHU/test7.py", line 67, in <module>
-    X_train, X_test, y_train, y_test, value_type_encoder, equilibrium_encoder = process_data()
-  File "/work/u5066474/NTHU/test7.py", line 62, in process_data
-    X_train, X_test, y_train, y_test, value_type_encoder, equilibrium_encoder, scalers = pickle.load(f)
-EOFError: Ran out of input
